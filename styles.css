@@ -140,7 +140,7 @@ a {
 .primary-title {
     font-family: Pacifico;
     font-weight: lighter;
-    color: #000;
+    color: var(--secondary-text-color);
 }
 
 .functioning {
